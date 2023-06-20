@@ -8,9 +8,8 @@ By leveraging Power BI's capabilities, this dashboard presents an intuitive and 
 
 ## Screenshots
 
-[Opportunity Analysis Dashboard.pdf](https://github.com/SyedSaifAhmed/Opportunity-Analysis-Dashboard-Power-BI/files/11798530/Opportunity.Analysis.Dashboard.pdf)
+![](Images/Opportunity%20Analysis%20Dashboard-1.jpg)
 
-![](Opportunity%20Analysis%20Dashboard.pdf)
+![](Images/Opportunity%20Analysis%20Dashboard-2.jpg)
 
-![tw](Images/Opportunity%20Analysis%20Dashboard-1.jpg)
-
+![](Images/Opportunity%20Analysis%20Dashboard-3.jpg)
